@@ -1,4 +1,4 @@
-node('nodejs') {
+node('linux_node') {
 
     currentBuild.result = "SUCCESS"
 
